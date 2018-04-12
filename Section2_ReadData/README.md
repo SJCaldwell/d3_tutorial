@@ -1,0 +1,1 @@
+1. This is a short one. Load up the HTML page and open the dev tools on your browser to look at the *console*. We have printed the dataset object to the console. In 5 minutes, you will have to tell me and Roger something about the data!
